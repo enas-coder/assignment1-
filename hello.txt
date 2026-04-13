@@ -1,1 +1,2 @@
 مرحبا، هذا اختبار Git
+This is an edit in the second branch for merge testing
