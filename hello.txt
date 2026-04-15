@@ -1,4 +1,4 @@
 مرحبا، هذا اختبار Git
 This is an edit in the first branch for merge testing
 
-هذا تعديل في الفرع الثاني لتجربة الدمج 
+هذا تعديل في الفرع الثاني لتجربة الدمج
